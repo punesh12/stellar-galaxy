@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for considering contributing to the Stellar Galaxy project! By participating in this project, you agree to abide by the code of conduct outlined in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+Thank you for considering contributing to the Stellar Galaxy project! By participating in this project, you agree to abide by the code of conduct outlined in [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md).
 
 ## How to Contribute
 
@@ -28,7 +28,7 @@ Before submitting a pull request, please ensure that your code adheres to the pr
 
 ## Code of Conduct
 
-We expect all contributors to adhere to the code of conduct outlined in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Please be respectful and inclusive in all interactions within the project community.
+We expect all contributors to adhere to the code of conduct outlined in [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md). Please be respectful and inclusive in all interactions within the project community.
 
 ## License
 

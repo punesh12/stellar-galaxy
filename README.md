@@ -36,7 +36,7 @@ Stellar Galaxy is a Visual Studio Code theme designed to elevate your code aesth
 
 If you have suggestions for improvements or would like to report a bug, please open an issue on the [GitHub repository](https://github.com/punesh12/stellar-galaxy).
 
-We welcome contributions! If you'd like to contribute to Stellar Galaxy, please check our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions! If you'd like to contribute to Stellar Galaxy, please check our [contribution guidelines](/CONTRIBUTONG.md).
 
 ## License
 

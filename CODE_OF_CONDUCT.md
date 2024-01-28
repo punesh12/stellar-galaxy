@@ -25,7 +25,7 @@ To ensure a positive and inclusive community, we ask that all participants adher
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at [maintainers@example.com]. All complaints will be reviewed and investigated promptly and fairly. The project team is committed to maintaining the confidentiality and privacy of any individuals who report incidents.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at [punesh12@gmail.com]. All complaints will be reviewed and investigated promptly and fairly. The project team is committed to maintaining the confidentiality and privacy of any individuals who report incidents.
 
 Participants who engage in violations of this Code of Conduct may face temporary or permanent repercussions, including but not limited to warnings, temporary bans, or permanent bans from participation in the project community.
 
@@ -35,4 +35,4 @@ This Code of Conduct is adapted from the Contributor Covenant, version 2.0, avai
 
 ## Contact
 
-If you have any questions or concerns regarding this Code of Conduct, please contact the project maintainers at [maintainers@example.com].
+If you have any questions or concerns regarding this Code of Conduct, please contact the project maintainers at [punesh12@gmail.com].
