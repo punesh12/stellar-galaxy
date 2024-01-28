@@ -3,7 +3,8 @@
   "displayName": "Stellar Galaxy",
   "description": "Dark Stellar theme",
   "version": "1.0.0",
-  "publisher": "Punesh Borkar",
+  "publisher": "PuneshBorkar",
+  "icon": "assets/icons/logo-primary.png",
   "engines": {
     "vscode": "^1.85.0"
   },

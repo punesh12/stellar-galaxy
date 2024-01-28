@@ -2,7 +2,7 @@
 
 # Stellar Galaxy - Elevate Your Coding Experience
 
-![StellarTheme Logo](/assets/icons/icon-banner.svg)
+![StellarTheme Logo](/assets/icons/logo-banner.png)
 
 </div>
 
