@@ -2,7 +2,7 @@
   "name": "stellar-galaxy",
   "displayName": "Stellar Galaxy",
   "description": "Dark Stellar theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "PuneshBorkar",
   "icon": "assets/icons/logo-primary.png",
   "engines": {
@@ -16,7 +16,11 @@
     "Themes"
   ],
   "keywords": [
-    "theme", "dark", "stellar galaxy","stellar", "stellar-galaxy"
+    "theme",
+    "dark",
+    "stellar galaxy",
+    "stellar",
+    "stellar-galaxy"
   ],
   "contributes": {
     "themes": [
