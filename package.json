@@ -1,0 +1,29 @@
+{
+  "name": "stellar-galaxy",
+  "displayName": "Stellar Galaxy",
+  "description": "Dark Stellar theme",
+  "version": "1.0.0",
+  "publisher": "Punesh Borkar",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punesh12/stellar-galaxy"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme", "dark", "stellar galaxy","stellar", "stellar-galaxy"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stellar Galaxy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stellar-galaxy-color-theme.json"
+      }
+    ]
+  }
+}
