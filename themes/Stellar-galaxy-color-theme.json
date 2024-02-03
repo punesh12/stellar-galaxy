@@ -1806,7 +1806,7 @@
 		"button.background": "#ffa700",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#001d36",
-		"button.secondaryForeground": "#ff0000",
+		"button.secondaryForeground": "#ffffff",
 		"button.secondaryBackground": "#001d36",
 		"button.secondaryHoverBackground": "#ffa700",
 		"input.background": "#000f1c",

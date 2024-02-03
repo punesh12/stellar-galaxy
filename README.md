@@ -32,6 +32,30 @@ Stellar Galaxy is a Visual Studio Code theme designed to elevate your code aesth
 ![StellarTheme JavaScript](assets/screenshots/Screenshot.jpeg)
 
 
+## Additional Configuration for Enhanced Experience
+
+To further enhance your coding experience, add the following settings to your Visual Studio Code settings:
+
+```json
+"editor.fontFamily": "'Cascadia Code LightBold', Menlo, Monaco, 'Courier New', monospace",
+"editor.fontVariations": false,
+"editor.fontWeight": "500",
+"editor.letterSpacing": 0.25,
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": [
+                "source"
+            ],
+            "settings": {
+                "fontStyle": "italic"
+            }
+        }
+    ]
+}
+```
+
+
 ## Contributing
 
 If you have suggestions for improvements or would like to report a bug, please open an issue on the [GitHub repository](https://github.com/punesh12/stellar-galaxy).
