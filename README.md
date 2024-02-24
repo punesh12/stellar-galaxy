@@ -6,6 +6,7 @@
 
 </div>
 
+[Install the extension from the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=PuneshBorkar.stellar-galaxy).
 
 ## Overview
 
